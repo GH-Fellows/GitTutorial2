@@ -1,6 +1,8 @@
 const myFaveNum = num => {
   console.log(`my favorite number is ${num}!`)
-  //   make a comment
+  //   wrote some code here
+  // made a lot of changes
+  console.log('merge conflicts shall appear')
 }
 
 myFaveNum(2)
