@@ -1,5 +1,6 @@
 const demo = () => {
-  console.log('welcome to this git demo part 1!')
+  console.log("git good (ง ื▿ ื)ว")
+
 }
 
 demo()
